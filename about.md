@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: What is this all About?
 permalink: /about/
 ---
 
