@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+   A realization of a certain method or idea to
+    demonstrate its feasibility, or a demonstration in principle, whose purpose
+ -  is to verify that some concept or theory has the potential of being use, herefore
+ +  is to verify that some concept or theory has the potential of being useful, herefore
+    a prototype that in and of itself is designed to determine feasibility, which is not akin to represent deliverables
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
